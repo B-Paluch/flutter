@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45905180022",
+    "project_id": "flutter-prz",
+    "storage_bucket": "flutter-prz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45905180022:android:70efcdb3228254fe0ab657",
+        "android_client_info": {
+          "package_name": "com.example.kal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45905180022-f181bt5h1nh5nonnkdf2esqn7mhrbiqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_IG-aGKa2pWFIys_jE-fHp2uzv9TGeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45905180022-f181bt5h1nh5nonnkdf2esqn7mhrbiqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
